@@ -119,6 +119,7 @@ else:
     time.sleep(60)
     if is_logged_in(driver):
         save_cookies(driver, cookies_file)
+        time.sleep(5)
         driver.get(course_url)
     else:
         driver.quit()

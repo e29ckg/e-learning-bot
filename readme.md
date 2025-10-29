@@ -1,37 +1,3 @@
-แน่นอนครับ phayao ✨  
-ด้านล่างนี้คือเนื้อหาของไฟล์ `.gitignore` และ `README.md` ที่เหมาะกับโปรเจกต์ e-learning automation bot ของคุณ:
-
----
-
-## 📄 .gitignore
-
-```gitignore
-# Virtual environment
-env/
-venv/
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Cookies and session data
-cookies.json
-
-# Screenshots
-screenshot.png
-
-# Logs
-*.log
-
-# OS-specific
-.DS_Store
-Thumbs.db
-```
-
-> ไฟล์นี้ช่วยให้ Git ไม่ track ไฟล์ที่ไม่จำเป็น เช่น cookies, env, cache, และภาพ screenshot
-
----
-
 ## 📘 README.md
 
 ```markdown
@@ -126,9 +92,4 @@ The bot sends:
 ## 📌 License
 
 This project is for educational and internal automation purposes only.
-```
-
----
-
-คุณสามารถ copy เนื้อหานี้ไปวางในไฟล์ `.gitignore` และ `README.md` ได้ทันที  
-ถ้าต้องการให้ผมช่วยสร้าง template ZIP พร้อมไฟล์ทั้งหมด หรือ deploy ขึ้น GitHub ก็แจ้งได้เลยครับ
+--
