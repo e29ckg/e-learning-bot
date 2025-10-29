@@ -1,4 +1,20 @@
-echo env/ > .gitignore
-echo __pycache__/ >> .gitignore
-echo cookies.json >> .gitignore
-echo screenshot.png >> .gitignore
+# Virtual environment
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Cookies and session data
+cookies.json
+
+# Screenshots
+screenshot.png
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
