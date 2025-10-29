@@ -1,0 +1,32 @@
+[
+  {
+    "domain": "learningportal.ocsc.go.th",
+    "expiry": 1761710096,
+    "httpOnly": false,
+    "name": "token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjM3NjAxMDA2MDExNTIiLCJyb2xlIjoidXNlciIsIm5iZiI6MTc2MTY5OTI5NiwiZXhwIjoxNzYxNzEwMDk2LCJpYXQiOjE3NjE2OTkyOTYsImlzcyI6Im9jc2MiLCJhdWQiOiJwdWJsaWMifQ.PdLQI_wwDB0I3I6Mr6tSkKUU05mBXBkIJ1L5DRqLalE"
+  },
+  {
+    "domain": "learningportal.ocsc.go.th",
+    "expiry": 1761699576,
+    "httpOnly": false,
+    "name": "thaid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "yAPg0ljsRlq"
+  },
+  {
+    "domain": ".ocsc.go.th",
+    "expiry": 1793235275,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "_XP7L7t8.uNjLbkmOn.u_00GoVPfh1rGwWqZPWLwsXc-1761699275-1.2.1.1-wBCK_qCfEVLpgTSoRo31pSlVDctlO4Xks.fttG8reY63NrnKWXq6k6ttrP.PJS6PTVB8KyVr76wzu7rhTgkMW8zPGgjxZJ.MaluI22eYVzMc8BucI7dEb_Egu1DYYZKgrJ8T7nGz3laCIzNBRgWUsFRmrybOCORNE5FHp1SFe8dUs3CFAqJtHWu.rnC1kboW8FtW6YCj8iPAOKDulIwNJXjS0R2pRYwz1UoGp1TmqdM"
+  }
+]

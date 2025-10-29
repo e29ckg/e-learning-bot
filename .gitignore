@@ -1,0 +1,4 @@
+echo env/ > .gitignore
+echo __pycache__/ >> .gitignore
+echo cookies.json >> .gitignore
+echo screenshot.png >> .gitignore
